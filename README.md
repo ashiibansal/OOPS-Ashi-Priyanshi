@@ -1,2 +1,2 @@
-# Snake
-Snake Game for OOPS Python 
+# TicTacToe
+TicTacToe Game for OOPS Python 
