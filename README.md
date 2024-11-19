@@ -1,5 +1,11 @@
 # TicTacToe
 TicTacToe Game for OOPS Python 
 
-This project involves building a Tic-Tac-Toe game using Python, where players can engage in a classic 3x3 grid match through the command line. The project utilizes Python’s time and math modules to enhance gameplay, adding features like a timer for player turns and random elements for determining the first move. The game incorporates continual practice with nested if statements, allowing players to input their choices, validate moves, and check for winning conditions efficiently.
-This project is designed to reinforce fundamental programming concepts like loops, functions, and conditional logic, while providing an engaging and interactive game experience.
+This repository contains a Tic-Tac-Toe game built using Python and the Tkinter library. The game provides a simple graphical user interface (GUI) for two players to enjoy the classic game of Tic-Tac-Toe on a 3x3 grid.
+
+Features:
+
+	•	🖱 Interactive GUI: Play the game with mouse clicks, powered by Tkinter’s canvas widget.
+	•	🎨 Customizable Design: Includes colorful symbols and an intuitive grid layout.
+	•	🔁 Replay Option: Allows players to restart the game after each round.
+
