@@ -9,3 +9,7 @@ Features:
 	•	🎨 Customizable Design: Includes colorful symbols and an intuitive grid layout.
 	•	🔁 Replay Option: Allows players to restart the game after each round.
 
+
+By - Ashi Bansal (23FE10CSE00394)
+     Priyanshi Bhardwaj (23FE10CSE00229)
+     CSE - Section J
