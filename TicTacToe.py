@@ -3,7 +3,6 @@ from tkinter import messagebox
 
 def ButtonClick(button):
     global x_o,flag 
-    button["bg"]="Green"
     if button["text"]=="" and x_o == True:
         button["text"]="X"
         x_o = False
