@@ -7,7 +7,9 @@ Features:
 
 	•	🖱 Interactive GUI: Play the game with mouse clicks, powered by Tkinter’s canvas widget.
 	•	🎨 Customizable Design: Includes colorful symbols and an intuitive grid layout.
+	•	🏆 Scoreboard: Tracks the scores for Player 1 (X), Player 2 (O), and ties.
 	•	🔁 Replay Option: Allows players to restart the game after each round.
+
 
 
 By - Ashi Bansal (23FE10CSE00394)
